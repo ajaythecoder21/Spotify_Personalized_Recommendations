@@ -1,7 +1,7 @@
 # Spotify_Personalized_Recommendations
 
 ## Goal
-The goal of this project is to generate song recommendations based on user suggestions along with personalization.
+The goal of this project is to generate song recommendations based on user suggestions along with song descriptions allowing for content personalization.
 
 
 ## Tools/Libraries Used
